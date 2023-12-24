@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-12-24T15:03:40.940Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0" etag="QalfitHmcpAQ-0n04vMw" version="22.1.11" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-24T15:09:16.135Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0" etag="9MQSRQVj3DbkgmMBo2Ub" version="22.1.11" type="github">
   <diagram name="Page-1" id="g4gm5gnGPgdy_71Fz9E6">
-    <mxGraphModel dx="3794" dy="2175" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2569" dy="1546" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -243,6 +243,51 @@
         </mxCell>
         <mxCell id="iUcQiUfxktG9Ryg0rw_d-99" value="" style="shape=mxgraph.cisco.security.firewall;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;flipH=1;flipV=0;" vertex="1" parent="1">
           <mxGeometry x="770" y="809.5" width="29" height="67" as="geometry" />
+        </mxCell>
+        <mxCell id="iUcQiUfxktG9Ryg0rw_d-100" value="DHCP" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-210" y="475" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iUcQiUfxktG9Ryg0rw_d-101" value="DNS" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-205" y="505" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iUcQiUfxktG9Ryg0rw_d-102" value="Radius" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-213" y="539" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iUcQiUfxktG9Ryg0rw_d-103" value="Active Directory" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-260" y="569" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iUcQiUfxktG9Ryg0rw_d-104" value="&lt;div&gt;Cisco&lt;/div&gt;&lt;div&gt;Catalyst 9300&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-243" y="416.06" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="iUcQiUfxktG9Ryg0rw_d-105" value="DHCP" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1150" y="496" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iUcQiUfxktG9Ryg0rw_d-106" value="Nginx/php" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1145" y="526" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iUcQiUfxktG9Ryg0rw_d-107" value="FTP" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1152" y="560" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iUcQiUfxktG9Ryg0rw_d-108" value="FTP" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1149.64" y="590" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iUcQiUfxktG9Ryg0rw_d-109" value="&lt;div&gt;Cisco&lt;/div&gt;&lt;div&gt;Catalyst 9300&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1117" y="437.06" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="iUcQiUfxktG9Ryg0rw_d-110" value="DHCP" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1008.34" y="877.47" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iUcQiUfxktG9Ryg0rw_d-111" value="FTP" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1015.98" y="907.47" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iUcQiUfxktG9Ryg0rw_d-112" value="MariaDB" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1008.34" y="941.47" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iUcQiUfxktG9Ryg0rw_d-113" value="MariaDB" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1005.9800000000001" y="971.47" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iUcQiUfxktG9Ryg0rw_d-114" value="&lt;div&gt;Cisco&lt;/div&gt;&lt;div&gt;Catalyst 9300&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1008.34" y="818.53" width="90" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
